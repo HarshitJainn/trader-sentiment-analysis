@@ -126,6 +126,3 @@ trader-sentiment-analysis/
 
 ## Author
 Harshit Jain
-
-## License
-MIT License
